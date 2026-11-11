@@ -1,6 +1,6 @@
 #include <stdio.h>
 int moyenne(int a,int b){
-m=(a+b)/2;
+int m=(a+b)/2;
 return m;
 }
 int main(){
