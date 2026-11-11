@@ -1,5 +1,6 @@
-# calcul-c-equipe 
-
+# calcul-c-equipe
+A:Mohamed badou
+B:Younes kamil
 Pull request:https://github.com/Mohamed-badou/calcul-c-equipe/pull/1
 
 ##Bilan:
